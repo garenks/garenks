@@ -14,7 +14,7 @@
 <br>
 
 
-<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garenks&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=garenks&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
 #
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garenks&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="garenks" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garenks&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
